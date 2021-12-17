@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.selected {
+  border: 3px solid firebrick;
+  font-weight: bolder;
+  background-color: lightgoldenrodyellow;
+}/*# sourceMappingURL=Rate.css.map */
